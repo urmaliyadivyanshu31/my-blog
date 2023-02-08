@@ -16,16 +16,7 @@ const articles = [
         name: 'learn-node',
         title: 'How to Build a Node Server in 10 Minutes',
         content: [
-            `In this article, we're going to be talking looking at a very quick way
-            to set up a Node.js server. We'll be discussing some topics such as proin congue
-            ligula id risus posuere, vel eleifend ex egestas.Each Things Here is parsed`,
-            `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
-            Nam blandit tristique risus,hello i am there eget accumsan nisl interdum eu. Aenean ac accumsan 
-            nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
-            sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
-            interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-            consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
-           
+            `Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to use JavaScript on the server-side to build fast and scalable network applications. Node.js is designed to handle a large number of connections and is optimized for real-time applications such as chat applications, online games, and streaming services. It uses an event-driven, non-blocking I/O model that makes it efficient in handling real-time data and makes it easy to scale applications horizontally by adding more resources. Node.js has a large and active community that has produced a vast library of packages and modules, called npm, which can be easily installed and used in applications, making development quicker and easier. It is widely used by companies such as Netflix, PayPal, and Walmart for building their web applications.`           
         ]
     },     {
         name: 'mongodb',
